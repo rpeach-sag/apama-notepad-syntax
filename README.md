@@ -10,7 +10,7 @@
 4. In the User Defined Language Window, click `Import...` and select the downloaded xml file
 5. Close the window
 
-**Note:** After installation you may need to re-open any .mon files.
+**Note:** After installation you may need to re-open any .mon files, or restart Notepad++.
 
 ------------------------------
 
