@@ -4,7 +4,7 @@
 
 ## Installation Instructions
 
-1. Download the userDefineLang_ApamaEPL.xml (from the [Releases Area](https://github.com/rpeach-sag/apama-notepad-syntax/releases))
+1. Download the latest `userDefineLang_ApamaEPL.xml` (from the [Releases Area](https://github.com/rpeach-sag/apama-notepad-syntax/releases))
 2. Open Notepad++
 3. In the top menu select `Language`, scroll to the bottom of the list, select `User Defined Language`
 4. In the User Defined Language Window, click `Import...` and select the downloaded xml file
